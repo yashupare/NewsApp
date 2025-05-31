@@ -1,0 +1,2 @@
+E:/GLS/Sem-2/Cross-Platform App Development/MiniProject/MainProject/inbrief/android/app/.cxx/Debug/61x113u1/x86/CMakeFiles/edit_cache.dir
+E:/GLS/Sem-2/Cross-Platform App Development/MiniProject/MainProject/inbrief/android/app/.cxx/Debug/61x113u1/x86/CMakeFiles/rebuild_cache.dir

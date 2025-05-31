@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390148591948",
+    "project_id": "inbrief-cc06e",
+    "storage_bucket": "inbrief-cc06e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390148591948:android:1eefcf9470a0ee34c6bfe9",
+        "android_client_info": {
+          "package_name": "com.example.inbrief"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlilKLUgZzv5RynQTwjlWWBD2m0yNMhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
